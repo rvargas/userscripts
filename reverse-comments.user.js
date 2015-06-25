@@ -6,6 +6,7 @@
 // @author       Rafael Vargas
 // @license      GNU GPL v3 <http://www.gnu.org/copyleft/gpl.html>
 // @match        https://what.cd/inbox.php?action=viewconv&id=*
+// @updateURL    https://raw.githubusercontent.com/rvargas/userscripts/master/reverse-comments.user.js
 // ==/UserScript==
 
 var comments = Array.prototype.slice.call(document.querySelectorAll("div.box.vertical_space"));
