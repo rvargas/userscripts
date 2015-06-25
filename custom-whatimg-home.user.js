@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Custom WhatIMG Home
 // @namespace    https://github.com/rvargas/userscripts
-// @version      1.0
+// @version      1.1
 // @description  This script creates new input fields and moves/hides other elements
 // @author       Rafael Vargas
 // @license      GNU GPL v3 <http://www.gnu.org/copyleft/gpl.html>
