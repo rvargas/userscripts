@@ -73,7 +73,7 @@ function hide_add_file_button(){
 function create_new_file_input(){
     var input_file = document.createElement('input');
 
-    input_file.name = 'userfile1[]'
+    input_file.name = 'userfile[]'
     input_file.type = 'file'
     input_file.size = '30'
 
