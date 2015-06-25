@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Reverse comments in inbox
 // @namespace    https://github.com/rvargas/userscripts
-// @version      1.0
+// @version      1.1
 // @description  This script reverses the order of the comments in the inbox
 // @author       Rafael Vargas
 // @license      GNU GPL v3 <http://www.gnu.org/copyleft/gpl.html>
-// @match        https://*what.cd/inbox.php?action=viewconv&id=*
+// @match        https://what.cd/inbox.php?action=viewconv&id=*
+// @match        https://ssl.what.cd/inbox.php?action=viewconv&id=*
 // @updateURL    https://github.com/rvargas/userscripts/raw/master/reverse-comments.user.js
 // ==/UserScript==
 
