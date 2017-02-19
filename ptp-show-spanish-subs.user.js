@@ -1,16 +1,17 @@
 // ==UserScript==
-// @name			Spanish Subtitles in PTP
+// @name		Spanish Subtitles in PTP
 // @description		Show subtitles without opening description
-// @include			http://passthepopcorn.me/torrents.php?*
-// @include         https://tls.passthepopcorn.me/torrents.php?*
+// @include		https://passthepopcorn.me/torrents.php?*
 // @copyright		Rafael Vargas
-// @version			1.0
-// @license			GNU GPL v3 <http://www.gnu.org/copyleft/gpl.html>
-// @updateURL       https://github.com/rvargas/userscripts/raw/master/ptp-show-spanish-subs.user.js
+// @version		1.1
+// @license		GNU GPL v3 <http://www.gnu.org/copyleft/gpl.html>
+// @updateURL       	https://github.com/rvargas/userscripts/raw/master/ptp-show-spanish-subs.user.js
 // ==/UserScript==
 
 /* CHANGELOG
- * 1.0.0 (30/04/13)
+ * 1.1 (19/02/17)
+ ** Update path
+ * 1.0 (30/04/13)
  ** Initial release
  */
 
