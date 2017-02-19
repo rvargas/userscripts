@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name            Spanish Subtitle Search in PTP
 // @description     Add subdivx and Argenteam search to movie details
-// @include         http://passthepopcorn.me/torrents.php?id=*
-// @include         https://tls.passthepopcorn.me/torrents.php?id=*
+// @include         https://passthepopcorn.me/torrents.php?id=*
 // @copyright       Rafael Vargas
-// @version         1.0
+// @version         1.1
 // @license         GNU GPL v3 <http://www.gnu.org/copyleft/gpl.html>
 // @updateURL       https://github.com/rvargas/userscripts/raw/master/ptp-search-subtitles.user.js
 // ==/UserScript==
