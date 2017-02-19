@@ -9,7 +9,9 @@
 // ==/UserScript==
 
 /* CHANGELOG
- * 1.0.0 (02/12/14)
+ * 1.1 (19/02/17)
+ ** Update path
+ * 1.0 (02/12/14)
  ** Initial release
  */
 
