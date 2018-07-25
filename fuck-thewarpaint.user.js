@@ -2,9 +2,9 @@
 // @name         Fuck @thewarpaint
 // @description  A friendly fix for Manoderecha's pdf viewer
 // @namespace    http://me.rafaelvargas
-// @version      1.0
+// @version      1.1
 // @author       Rafael Vargas
-// @match        http://manoderecha.net/md/index.php/file/*
+// @match        https://manoderecha.net/md/index.php/file/*
 // @grant        none
 // @updateURL    https://github.com/rvargas/userscripts/raw/master/fuck-thewarpaint.user.js
 // ==/UserScript==
