@@ -2,13 +2,13 @@
 // @name         Disable stupid events
 // @description  Disable stupid events
 // @namespace    http://me.rafaelvargas
-// @version      1.0
+// @version      1.0.1
 // @author       Rafael Vargas
-// @match        http://*.milenio.com/*
-// @match        http://milenio.com/*
-// @match        http://*.eluniversal.com.mx/*
-// @match        http://eluniversal.com.mx/*
-// @match        http://rollingstone.com.mx/*
+// @match        https://*.milenio.com/*
+// @match        https://milenio.com/*
+// @match        https://*.eluniversal.com.mx/*
+// @match        https://eluniversal.com.mx/*
+// @match        https://rollingstone.com.mx/*
 // @grant        none
 // @updateURL    https://github.com/rvargas/userscripts/raw/master/disable-stupid-events.user.js
 // ==/UserScript==
