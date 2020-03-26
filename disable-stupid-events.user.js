@@ -2,7 +2,7 @@
 // @name         Disable stupid events
 // @description  Disable stupid events
 // @namespace    http://me.rafaelvargas
-// @version      1.0.1
+// @version      1.0.2
 // @author       Rafael Vargas
 // @match        https://*.milenio.com/*
 // @match        https://milenio.com/*
